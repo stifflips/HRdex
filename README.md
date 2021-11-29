@@ -1,2 +1,1 @@
-# HRdex
-HR record NFT
+HRdex is the green solution to HR record keeping.  Sustainability in foresting could greatly benefit by a significant reduction in paper use. In 2018 alone almost 70% of all paper was created was also recycled. 1 ream (500 sheets) of paper uses up to 6% of a tree on average and a substantial change in record keeping would have a huge impact towards environmental amelioration. HRdex intends to provide the green solution to record keeping and to be the leader by utilizing the XRP Ledger for execution of immutable contracts, elimination of record keeping, and in complete decentralization of record keeping responsibilities for everyday leaders and conglomerate sized corporations
